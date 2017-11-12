@@ -1,10 +1,4 @@
 
-#frankDesc {
-    display: inline-block;
-    width: 400px;
-    padding-left: 75px;
-    text-align: center;
-}
 
 .selectionBtn {
     background-color: transparent;
@@ -22,6 +16,7 @@
     text-align: center;
     left: 54%;
     transform: translateX(-50%);
+    height: auto;
 }
 
 .currentBtn{
@@ -74,4 +69,26 @@
     position: absolute;
     top: 75%;
     left: 33%;
+}
+
+
+
+#momPhoto {
+    position: absolute;
+}
+
+.descInfo {
+    display: inline-block;
+    width: 400px;
+    margin-left: 100px;
+}
+
+#momRow {
+    height: 500px;
+}
+
+#momDesc {
+    width: 400px;
+    left: 62%;
+    padding-top: 20px;
 }
