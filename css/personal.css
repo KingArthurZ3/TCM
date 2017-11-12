@@ -60,3 +60,18 @@
 	line-height: 48px !important;
     background-color: lightgray;
 }
+
+#addressText {
+    color: white;
+    position: absolute;
+    top: 75%;
+    left: 1%;
+    
+}
+
+#phoneText {
+    color: white;
+    position: absolute;
+    top: 75%;
+    left: 33%;
+}

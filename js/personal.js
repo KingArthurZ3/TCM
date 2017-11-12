@@ -3,6 +3,7 @@ var doneBtn = $('#doneBtn');
 var workBtn = $('#workBtn');
 var treatBtn = $('#treatBtn');
 var descText = $('#desc');
+var emailBtn = $('#emailBtn')
 
 var buttonList = [historyBtn,
                  doneBtn,
