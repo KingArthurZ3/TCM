@@ -92,3 +92,21 @@
     left: 62%;
     padding-top: 20px;
 }
+
+#googleMap {
+    display: inline-block;
+
+    
+    
+}
+
+#contactInfo {
+    display: inline-block;
+    width: 500px;
+    color: white;
+    font-size: 30px;
+}
+
+#infoMap {
+    margin-left: 2%;
+}
